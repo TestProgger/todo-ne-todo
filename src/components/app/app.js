@@ -14,9 +14,9 @@ export default class App extends Component {
   maxID = 1;
   state = {
     todoData: [
-      this.createTodoItem("Drink Coffe"),
-      this.createTodoItem("Make Awesome Element"),
-      this.createTodoItem("Have a launch"),
+      this.createTodoItem("Купить Молоко"),
+      this.createTodoItem("Купить масло"),
+      this.createTodoItem("Забрать вещи из химчистки"),
     ],
     term: "",
     filter: "active",
