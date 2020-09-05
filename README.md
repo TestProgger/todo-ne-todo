@@ -1,8 +1,8 @@
 # React App
 
 ### Установка зависимостей
-   npm install
+      npm install
    
    
 ### Запуск проекта
-  npm start
+      npm start
