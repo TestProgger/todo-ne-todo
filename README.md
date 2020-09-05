@@ -1,8 +1,8 @@
 # React App
 
-[!['Active'](images/active.jpg)]
+[!['Active'](images/active.png)]
 
-[!['Done'](images/done.jpg)]
+[!['Done'](images/done.png)]
 
 
 ### Установка зависимостей
